@@ -4,7 +4,7 @@ Managing books, users, and transactions in a library doesn't have to be done man
 🔍 Overview
 This project is a fully functional desktop-based Library Management System, developed using Java Swing for the GUI and MySQL for the database. It includes admin and librarian functionalities to manage book inventory, issue/return processes, and user records efficiently.
 
-🔗 Project Link: Library Management System in Java with Source Code
+🔗 Project Link: Library Management System in Java with Source Code https://projectsforeveryone.com/project/library-management-system-project-in-java-source-code/
 
 🧩 Features at a Glance
 🔐 Login System
@@ -92,5 +92,5 @@ Run the application and log in as admin or librarian
 📝 Final Thoughts
 The Library Management System in Java is a real-world application that’s not only great for academic purposes but also a strong addition to your development portfolio. It's clean, functional, and ready to deploy in an actual library setting with minimal tweaks.
 
-🔗 Download & Learn More Here
+🔗 Download & Learn More Here https://projectsforeveryone.com/project/library-management-system-project-in-java-source-code/
 
